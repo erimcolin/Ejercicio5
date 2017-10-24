@@ -1,5 +1,7 @@
 var comparacion = function(array1, array2){
-  document.write("funcion declara, es una prueba")
+  if (arreglo1.length !== arreglo2.length){
+    return false
+  }
 
 
 }
